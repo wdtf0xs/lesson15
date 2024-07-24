@@ -1,0 +1,14 @@
+@media screen and (max-width: 768px) {
+
+    body{
+        background: #F3F5F6;
+    }
+
+.box{
+    width: 768px;
+    height: 100%;
+    padding: 48px 24px;
+    flex-wrap: wrap;
+
+}
+}
